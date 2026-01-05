@@ -11,10 +11,14 @@
             "id": "3baee4c432f2375b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI-Resources-for-Renna.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AI-Resources-for-Renna"
             }
           }
         ]
@@ -180,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3baee4c432f2375b",
+  "active": "fc562a7358d0ee85",
   "lastOpenFiles": [
     "AI-Resources-for-Renna.md",
     "index.md"
