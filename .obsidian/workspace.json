@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b405dfce5b6000bf",
+        "id": "e7718f6f17d68bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "990b56c459b9f9cd",
+            "id": "4836830cf39f09bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,9 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "990b56c459b9f9cd",
+  "active": "4836830cf39f09bb",
   "lastOpenFiles": [
-    "AI-Resources-for-Renna.md",
-    "index.md"
+    "index.md",
+    "AI-Resources-for-Renna.md"
   ]
 }
