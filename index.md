@@ -1,2 +1,2 @@
 
-[[AI-Resources-for-Renna]]
+New [[AI-Resources-for-Renna]]
