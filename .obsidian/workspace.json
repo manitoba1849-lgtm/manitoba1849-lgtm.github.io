@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81502edd76320a68",
+        "id": "0ca54d61742fa241",
         "type": "tabs",
         "children": [
           {
-            "id": "574a77a7129c77f1",
+            "id": "250a1b806c271fd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-Resources-for-Renna.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI-Resources-for-Renna"
+              "title": "New tab"
             }
           }
         ]
@@ -184,9 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "574a77a7129c77f1",
+  "active": "250a1b806c271fd9",
   "lastOpenFiles": [
     "AI-Resources-for-Renna.md",
+    "fungiflowers.png",
     "index.md"
   ]
 }
