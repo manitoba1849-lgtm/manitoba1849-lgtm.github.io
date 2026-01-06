@@ -1,5 +1,3 @@
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=jkXOudImoI0"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+- [Big Think](https://www.youtube.com/watch?v=jkXOudImoI0)
+- [Cabrera Labs](https://youtu.be/rhlo9Uapr1w)
+- [Systems Innovation](https://youtu.be/Miy9uQcwo3U)
