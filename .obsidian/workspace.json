@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca54d61742fa241",
+        "id": "43b71a08acae21c6",
         "type": "tabs",
         "children": [
           {
-            "id": "250a1b806c271fd9",
+            "id": "84b54f9650796d99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "250a1b806c271fd9",
+  "active": "84b54f9650796d99",
   "lastOpenFiles": [
     "AI-Resources-for-Renna.md",
-    "fungiflowers.png",
-    "index.md"
+    "index.md",
+    "fungiflowers.png"
   ]
 }
